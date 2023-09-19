@@ -1,0 +1,3 @@
+.markdown p:empty {
+  height: 20px !important;
+}
